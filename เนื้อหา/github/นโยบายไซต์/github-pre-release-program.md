@@ -1,10 +1,36 @@
 ---
 title: GitHub Pre-release Program
-redirect_from:
-  - /articles/github-pre-release-program
+redirect_fro
+  - / บทความ / github
 versions:
   free-pro-team: '*'
 topics:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   - policy
   - legal
 ---
